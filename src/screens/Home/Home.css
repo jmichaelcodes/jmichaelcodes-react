@@ -1,0 +1,76 @@
+.homeContainer {
+    background-color: #11082b;
+    display: flex;
+    height: 100vh;
+    position: relative;
+    text-align: center;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif;
+  }
+
+  .contentContainer {
+      flex: 1;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+  }
+
+  .homeTitle {
+      font-size: 65px;
+      font-weight: 300;
+      color: white;
+      margin: 0;
+      margin-bottom: 1%;
+  }
+
+  .subtitle {
+      color: white;
+      font-weight: 200;
+      margin: 0;
+      margin-bottom: 3%;
+  }
+
+  .buttonContainer {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+  }
+
+  .hollowButton {
+      border: 1px solid white;
+      color: white;
+      cursor: pointer;
+      margin-right: 20px;
+      padding: 10px 30px 10px 30px;
+      text-decoration: none
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 40vmin;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  

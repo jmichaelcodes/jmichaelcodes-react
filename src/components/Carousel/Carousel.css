@@ -1,0 +1,13 @@
+.carouselArrowLeft {
+    cursor: pointer;
+    position: absolute;
+    left: 3%;
+    top: 50%;
+}
+
+.carouselArrowRight {
+    cursor: pointer;
+    position: absolute;
+    right: 3%;
+    top: 50%;
+}

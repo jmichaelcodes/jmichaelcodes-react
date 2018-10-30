@@ -1,0 +1,19 @@
+.skillsContainer {
+    height: 100%;
+    padding-left: 100px;
+    padding-top: 7%;
+    color: white;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    font-size: 21px;
+    font-weight: 100;
+}
+
+.experienceContainer {
+    margin-top: 14%
+}
+
+ .progressBarContainer {
+    position: relative;
+     width: 13%;
+     height: 13%
+ }
