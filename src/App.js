@@ -12,7 +12,7 @@ class App extends Component {
     return (
       <div style={{ backgroundColor: '#11082b' }}>
         <BurgerMenu/>
-        <Route path="/" component={Home}/>
+        <Route exact path="/" component={Home}/>
         <Route exact path="/work" component={Work}/>
         <Route exact path="/about" component={About}/>
         <Route exact path="/experience" component={Skills}/>
