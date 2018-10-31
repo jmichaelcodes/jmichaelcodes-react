@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/skinnyties_1.d856a6a1.png"
   },
   {
-    "revision": "151b4160735133f58934",
-    "url": "/jmichaelcodes-react/static/css/main.965e50ca.chunk.css"
+    "revision": "345693dfd3bdb57a51f2",
+    "url": "/jmichaelcodes-react/static/css/main.c753b386.chunk.css"
   },
   {
     "revision": "66d7e8da0634516baf92",
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/ludm_2.58cb5eed.png"
   },
   {
-    "revision": "151b4160735133f58934",
-    "url": "/jmichaelcodes-react/static/js/main.151b4160.chunk.js"
+    "revision": "345693dfd3bdb57a51f2",
+    "url": "/jmichaelcodes-react/static/js/main.345693df.chunk.js"
   },
   {
     "revision": "9006e397706cc36c800a5552197cb858",
@@ -156,7 +156,7 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/FuturaPTLight.a15258a7.otf"
   },
   {
-    "revision": "c78fc829e26a37222b639f5f620d56ad",
+    "revision": "44b5be5f86f8a24a89d22c134f0a304d",
     "url": "/jmichaelcodes-react/index.html"
   }
 ];
