@@ -37,7 +37,7 @@ class WorkModal extends Component  {
     renderChips = () => {
         return this.props.work.technologies.map((item, index) => {
             return (
-                <h3 className='chip'>{item}</h3>
+                <p className='chip'>{item}</p>
             )
         })
     }
@@ -48,10 +48,10 @@ class WorkModal extends Component  {
                 <div className='modalContainer'>
                     <div className='modal' onClick={this.handleClick}>
                         <Carousel color={this.generateTranslucentBackground()} images={this.props.work.images} width={this.sizeImage()}/>
-                        <div style={{ borderTop: '2px solid black', paddingLeft: 50, paddingRight: 50 }}>
-                            <h1 style={{ marginBottom: 0 }}>{this.props.work.name}</h1>
+                        <div className='descriptionContainer' style={{ borderTop: '2px solid black', paddingLeft: 50, paddingRight: 50 }}>
+                            <h1 className='workTitle'>{this.props.work.name}</h1>
                             {this.renderChips()}
-                            <p>{this.props.work.description}</p>
+                            <p style={{ fontSize: 20 }}>{this.props.work.description}</p>
                         </div>
                     </div>
                 </div>

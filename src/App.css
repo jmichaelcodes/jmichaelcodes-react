@@ -1,3 +1,33 @@
+@font-face {
+  font-family: 'FuturaPt';
+  font-style: normal;
+  font-weight: bold;
+  src:
+    local('FuturaPt Bold'),
+    local('FuturaPt-Bold'),
+    url(./assets/fonts/Futura/FuturaPTBold.otf) format('opentype');
+}
+
+@font-face {
+  font-family: 'FuturaPt';
+  font-style: normal;
+  font-weight: lighter;
+  src:
+    local('FuturaPt Light'),
+    local('FuturaPt-Light'),
+    url(./assets/fonts/Futura/FuturaPTLight.otf) format('opentype');
+}
+
+/* @font-face {
+  font-family: 'FuturaPt';
+  font-style: normal;
+  font-weight: 300;
+  src:
+    local('FuturaPt Medium'),
+    local('FuturaPt-Medium'),
+    url(./assets/fonts/Futura/FuturaPTMedium.otf) format('opentype');
+} */
+
 .App {
   text-align: center;
 }

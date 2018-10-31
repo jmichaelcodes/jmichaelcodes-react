@@ -2,30 +2,30 @@ import React, { Component } from 'react'
 import './Work.css'
 import WorkItem from '../../components/WorkItem/WorkItem'
 import WorkModal from '../../components/WorkModal/WorkModal'
-import dragos1 from '../../img/screenshots/dragos_1.png'
-import dragos2 from '../../img/screenshots/dragos_2.png'
-import dragos3 from '../../img/screenshots/dragos_3.png'
-import kyne1 from '../../img/screenshots/kyne_1.png'
-import kyne2 from '../../img/screenshots/kyne_2.png'
-import kyne3 from '../../img/screenshots/kyne_3.png'
-import kyne4 from '../../img/screenshots/kyne_4.png'
-import nosh1 from '../../img/screenshots/nosh_1.png'
-import nosh2 from '../../img/screenshots/nosh_2.png'
-import nosh3 from '../../img/screenshots/nosh_3.png'
-import ntfxn1 from '../../img/screenshots/ntfxn_1.png'
-import ntfxn2 from '../../img/screenshots/ntfxn_2.png'
-import ntfxn3 from '../../img/screenshots/ntfxn_3.png'
-import ludm1 from '../../img/screenshots/ludm_1.png'
-import ludm2 from '../../img/screenshots/ludm_2.png'
-import skinnyties1 from '../../img/screenshots/skinnyties_1.png'
-import skinnyties2 from '../../img/screenshots/skinnyties_2.png'
-import sockorama1 from '../../img/screenshots/sockorama_1.png'
-import sockorama2 from '../../img/screenshots/sockorama_2.png'
-import surfpaddle1 from '../../img/screenshots/surfpaddle_1.png'
-import surfpaddle2 from '../../img/screenshots/surfpaddle_2.png'
-import coachstr1 from '../../img/screenshots/coachstr_1.png'
-import coachstr2 from '../../img/screenshots/coachstr_2.png'
-import coachstr3 from '../../img/screenshots/coachstr_3.png'
+import dragos1 from '../../assets/img/screenshots/dragos_1.png'
+import dragos2 from '../../assets/img/screenshots/dragos_2.png'
+import dragos3 from '../../assets/img/screenshots/dragos_3.png'
+import kyne1 from '../../assets/img/screenshots/kyne_1.png'
+import kyne2 from '../../assets/img/screenshots/kyne_2.png'
+import kyne3 from '../../assets/img/screenshots/kyne_3.png'
+import kyne4 from '../../assets/img/screenshots/kyne_4.png'
+import nosh1 from '../../assets/img/screenshots/nosh_1.png'
+import nosh2 from '../../assets/img/screenshots/nosh_2.png'
+import nosh3 from '../../assets/img/screenshots/nosh_3.png'
+import ntfxn1 from '../../assets/img/screenshots/ntfxn_1.png'
+import ntfxn2 from '../../assets/img/screenshots/ntfxn_2.png'
+import ntfxn3 from '../../assets/img/screenshots/ntfxn_3.png'
+import ludm1 from '../../assets/img/screenshots/ludm_1.png'
+import ludm2 from '../../assets/img/screenshots/ludm_2.png'
+import skinnyties1 from '../../assets/img/screenshots/skinnyties_1.png'
+import skinnyties2 from '../../assets/img/screenshots/skinnyties_2.png'
+import sockorama1 from '../../assets/img/screenshots/sockorama_1.png'
+import sockorama2 from '../../assets/img/screenshots/sockorama_2.png'
+import surfpaddle1 from '../../assets/img/screenshots/surfpaddle_1.png'
+import surfpaddle2 from '../../assets/img/screenshots/surfpaddle_2.png'
+import coachstr1 from '../../assets/img/screenshots/coachstr_1.png'
+import coachstr2 from '../../assets/img/screenshots/coachstr_2.png'
+import coachstr3 from '../../assets/img/screenshots/coachstr_3.png'
 
 const data = [
     {
@@ -59,7 +59,7 @@ const data = [
         name: 'NoshCare',
         color: '#40E0D0',
         // color: '#71cfb6',
-        description: 'NoshCare is an iPad mobile app that allows dieticians to set up custom meal plans catered toward that individuals dietary restrictions and goals. This was a small team project using GraphQL on the back end and React Native on the front-end.',
+        description: 'NoshCare is an iPad mobile app that allows dieticians to set up custom meal plans catered toward individuals dietary restrictions and goals. This was a small team project using GraphQL on the back end and React Native on the front-end.',
         images: [nosh1, nosh2, nosh3],
         type: 'ipad',
         technologies: ['React Native']
@@ -68,7 +68,7 @@ const data = [
         name: 'Coachstr',
         color: '#4682B4',
         // color: '#546e7a',
-        description: 'Coachstr is a site that allows coaches to dynamically create practice plans for their teams. This was the final project from my time at The Iron Yard coding bootcamp, where I acted as the sole front-end developer and designer working with a two back-end developers. This project was created using React, and was started just one week after first exposure to the it.',
+        description: 'Coachstr is a site that allows coaches to dynamically create practice plans for their teams. This was the final project from my time at The Iron Yard coding bootcamp, where I acted as the sole front-end developer and designer working with a two back-end developers. This project was created using React.',
         images: [coachstr1, coachstr2, coachstr3 ],
         type: 'web',
         technologies: ['CSS', 'HTML', 'React']
@@ -76,7 +76,7 @@ const data = [
     {
         name: 'The Iron Yard',
         color: '#808080',
-        description: 'Selected projects from my time at The Iron Yard coding bootcamp, first learning front-end development rRecreating a marketing site and responsive blog, as well as a custom group project). All projects were created using pure HTML and CSS and were within the first 2-3 months of learning the technologies.',
+        description: 'Selected projects from my time at The Iron Yard coding bootcamp, first learning front-end development. Recreating a marketing site and responsive blog, as well as an original group project. All projects were created using pure HTML and CSS.',
         images: [skinnyties1, skinnyties2, sockorama1, sockorama2, surfpaddle1, surfpaddle2],
         type: 'web',
         technologies: ['CSS', 'HTML', 'Javascript']

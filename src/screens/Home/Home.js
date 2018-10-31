@@ -15,10 +15,10 @@ class Home extends Component {
           {/* <p className='subtitle'>short bio and stuff</p> */}
           <div className='buttonContainer'>
             <Link to='/about' style={{ textDecoration: 'none'}}>
-              <div className='hollowButton'>About me</div>
+              <div className='hollowButton border'>About me</div>
             </Link>
             <Link to='/work' style={{ textDecoration: 'none'}}>
-              <div className='hollowButton'>My Work</div>
+              <div className='hollowButton border'>My Work</div>
             </Link>
           </div>
         </div>

@@ -3,9 +3,15 @@
     padding-left: 100px;
     padding-top: 7%;
     color: white;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+    font-family: "FuturaPT", sans-serif;
+    font-weight: lighter;
     font-size: 21px;
 }
+
+.profileContainer p {
+  opacity: 0.84;
+}
+
 .skillsContainer {
   height: 100%;
   padding-left: 100px;

@@ -22,7 +22,7 @@
 .chip {
     display: inline-block;
     height: 32px;
-    font-size: 13px;
+    font-size: 16px;
     font-weight: 500;
     color: rgba(0, 0, 0, 0.6);
     line-height: 32px;
@@ -39,6 +39,16 @@
 	animation-iteration-count: 1;
 	animation-timing-function: ease-in;
 	animation-duration: 1s;
+}
+
+.workTitle {
+    margin-bottom: 0;
+    font-weight: lighter;
+}
+
+.descriptionContainer {
+    font-family: "FuturaPT", sans-serif;
+    font-weight: lighter;
 }
 
 @keyframes fadeInOpacity {

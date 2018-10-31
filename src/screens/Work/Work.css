@@ -7,11 +7,12 @@
     justify-content: flex-start;
     align-self: flex-start;
     height: 100%;
-    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
 }
 
 .title {
     padding-top: 7%;
     padding-bottom: 30px;
-    padding-left: 100px
+    padding-left: 100px;
+    font-family: "FuturaPT", sans-serif;
+    font-weight: lighter;
 }
