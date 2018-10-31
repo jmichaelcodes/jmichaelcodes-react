@@ -1,4 +1,4 @@
-.container {
+.workContainer {
     background-color: #11082b;
     color: white;
     display: flex;
@@ -7,12 +7,13 @@
     justify-content: flex-start;
     align-self: flex-start;
     height: 100%;
+    padding: 0px 20px 30px 20px;
 }
 
 .title {
-    padding-top: 7%;
+    padding-top: 5%;
     padding-bottom: 30px;
-    padding-left: 100px;
+    padding-left: 75px;
     font-family: "FuturaPT", sans-serif;
     font-weight: lighter;
 }

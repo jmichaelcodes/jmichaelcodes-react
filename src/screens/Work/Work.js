@@ -115,7 +115,7 @@ class Work extends Component {
             <div>
             <WorkModal isOpen={this.state.isOpen} toggleModal={() => this.setState({ isOpen: false})} work={this.state.work}/>
 
-            <div className='container'>
+            <div className='workContainer'>
                 <h1 className='title'>Selected Work</h1>
                 {this.renderItems()}
             </div>

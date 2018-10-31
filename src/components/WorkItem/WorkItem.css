@@ -3,12 +3,11 @@
     border-top: 1px solid rgba(255,255,255,0.15);
     color: white;
     margin: 0;
-    margin-left: 25px;
     padding-bottom: 20px;
     padding-top: 20px;
     text-align: left;
     text-decoration: none;
-    transition: background-color 2s ease-out;
+    transition: background-color 1s ease-out;
     width: 100%
 }
 
@@ -17,12 +16,11 @@
     color: white;
     padding-bottom: 20px;
     margin: 0;
-    margin-left: 25px;
     padding-top: 20px;
     text-align: left;
     text-decoration: none;
     width: 100%;
-    transition: background-color 2s ease-out;
+    transition: background-color 1s ease-out;
 }
 
 /* .firstItem:hover {
