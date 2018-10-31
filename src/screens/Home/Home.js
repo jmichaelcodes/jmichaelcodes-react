@@ -8,7 +8,6 @@ class Home extends Component {
   render() {
     return (
       <div className='homeContainer'>
-      <BurgerMenu/>
         <div className='contentContainer'>
           <h1 className='homeTitle'>J. Michael Williams</h1>
           <h1 className='subtitle'>Front-end Web & Mobile Developer</h1>
