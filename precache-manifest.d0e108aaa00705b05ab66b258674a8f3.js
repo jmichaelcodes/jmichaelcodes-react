@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/skinnyties_1.d856a6a1.png"
   },
   {
-    "revision": "4d60030f307fe71ccce3",
+    "revision": "8198ce61c5f57b4fca32",
     "url": "/jmichaelcodes-react/static/css/main.30955d81.chunk.css"
   },
   {
@@ -80,8 +80,8 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/ludm_2.58cb5eed.png"
   },
   {
-    "revision": "4d60030f307fe71ccce3",
-    "url": "/jmichaelcodes-react/static/js/main.4d60030f.chunk.js"
+    "revision": "8198ce61c5f57b4fca32",
+    "url": "/jmichaelcodes-react/static/js/main.8198ce61.chunk.js"
   },
   {
     "revision": "9006e397706cc36c800a5552197cb858",
@@ -148,15 +148,15 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/react.c03ff3e1.png"
   },
   {
-    "revision": "f3483f64fe4f53928cfe2786e7ec82cc",
-    "url": "/jmichaelcodes-react/static/media/FuturaPTBold.f3483f64.otf"
-  },
-  {
     "revision": "a15258a71bcff8eb791ad54f27144d48",
     "url": "/jmichaelcodes-react/static/media/FuturaPTLight.a15258a7.otf"
   },
   {
-    "revision": "afa1a0d6cb8d2e267d7620bf34fd7267",
+    "revision": "f3483f64fe4f53928cfe2786e7ec82cc",
+    "url": "/jmichaelcodes-react/static/media/FuturaPTBold.f3483f64.otf"
+  },
+  {
+    "revision": "ded2bb0cedb80ce1a4f9840b4c842883",
     "url": "/jmichaelcodes-react/index.html"
   }
 ];

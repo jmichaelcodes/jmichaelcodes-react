@@ -1,7 +1,7 @@
 {
   "main.css": "/jmichaelcodes-react/static/css/main.30955d81.chunk.css",
-  "main.js": "/jmichaelcodes-react/static/js/main.4d60030f.chunk.js",
-  "main.js.map": "/jmichaelcodes-react/static/js/main.4d60030f.chunk.js.map",
+  "main.js": "/jmichaelcodes-react/static/js/main.8198ce61.chunk.js",
+  "main.js.map": "/jmichaelcodes-react/static/js/main.8198ce61.chunk.js.map",
   "static/js/1.66d7e8da.chunk.js": "/jmichaelcodes-react/static/js/1.66d7e8da.chunk.js",
   "static/js/1.66d7e8da.chunk.js.map": "/jmichaelcodes-react/static/js/1.66d7e8da.chunk.js.map",
   "runtime~main.js": "/jmichaelcodes-react/static/js/runtime~main.6f2f312a.js",
@@ -39,9 +39,9 @@
   "static/media/jquery.png": "/jmichaelcodes-react/static/media/jquery.1a1882b8.png",
   "static/media/react-native.png": "/jmichaelcodes-react/static/media/react-native.a2b57171.png",
   "static/media/react.png": "/jmichaelcodes-react/static/media/react.c03ff3e1.png",
-  "static/media/App.css": "/jmichaelcodes-react/static/media/FuturaPTLight.a15258a7.otf",
+  "static/media/App.css": "/jmichaelcodes-react/static/media/FuturaPTBold.f3483f64.otf",
   "static/css/main.30955d81.chunk.css.map": "/jmichaelcodes-react/static/css/main.30955d81.chunk.css.map",
   "index.html": "/jmichaelcodes-react/index.html",
-  "precache-manifest.8ba671e018e457270625895ee0f5b10e.js": "/jmichaelcodes-react/precache-manifest.8ba671e018e457270625895ee0f5b10e.js",
+  "precache-manifest.d0e108aaa00705b05ab66b258674a8f3.js": "/jmichaelcodes-react/precache-manifest.d0e108aaa00705b05ab66b258674a8f3.js",
   "service-worker.js": "/jmichaelcodes-react/service-worker.js"
 }
