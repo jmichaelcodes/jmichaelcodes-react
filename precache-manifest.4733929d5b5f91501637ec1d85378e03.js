@@ -1,47 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "4fedc2eef6ab593c9eac7fa4dcf5fce9",
-    "url": "/jmichaelcodes-react/static/media/nosh_1.4fedc2ee.png"
+    "revision": "d856a6a15ba49409ee76564d888937f6",
+    "url": "/jmichaelcodes-react/static/media/skinnyties_1.d856a6a1.png"
   },
   {
-    "revision": "cb826fc0bc2c41c9c2a4",
-    "url": "/jmichaelcodes-react/static/css/main.19e53bb5.chunk.css"
+    "revision": "151b4160735133f58934",
+    "url": "/jmichaelcodes-react/static/css/main.965e50ca.chunk.css"
   },
   {
-    "revision": "8bef500a8417902704c2",
-    "url": "/jmichaelcodes-react/static/js/1.8bef500a.chunk.js"
+    "revision": "66d7e8da0634516baf92",
+    "url": "/jmichaelcodes-react/static/js/1.66d7e8da.chunk.js"
   },
   {
     "revision": "6f2f312a56eaf91d3144",
     "url": "/jmichaelcodes-react/static/js/runtime~main.6f2f312a.js"
-  },
-  {
-    "revision": "e3efe24d038937a8050aa269946c89c5",
-    "url": "/jmichaelcodes-react/static/media/android.e3efe24d.png"
-  },
-  {
-    "revision": "b2f7b0c5b541c73d3981d1bf33d871bf",
-    "url": "/jmichaelcodes-react/static/media/css.b2f7b0c5.png"
-  },
-  {
-    "revision": "8b6658abf75e5e475fac8f5e017f7768",
-    "url": "/jmichaelcodes-react/static/media/java.8b6658ab.png"
-  },
-  {
-    "revision": "0dc5bb89d598bd674f67a710310b31ce",
-    "url": "/jmichaelcodes-react/static/media/javascript.0dc5bb89.png"
-  },
-  {
-    "revision": "1a1882b8869d04e6b7dce7245f074bb0",
-    "url": "/jmichaelcodes-react/static/media/jquery.1a1882b8.png"
-  },
-  {
-    "revision": "a2b57171ae3c9f4ff5055e2db4fbd675",
-    "url": "/jmichaelcodes-react/static/media/react-native.a2b57171.png"
-  },
-  {
-    "revision": "c03ff3e17645426cd725144c594b4041",
-    "url": "/jmichaelcodes-react/static/media/react.c03ff3e1.png"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
@@ -76,8 +48,8 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/kyne_4.8e3a025d.png"
   },
   {
-    "revision": "cb826fc0bc2c41c9c2a4",
-    "url": "/jmichaelcodes-react/static/js/main.cb826fc0.chunk.js"
+    "revision": "4fedc2eef6ab593c9eac7fa4dcf5fce9",
+    "url": "/jmichaelcodes-react/static/media/nosh_1.4fedc2ee.png"
   },
   {
     "revision": "2d02b640cd777f3ed745cd21a30c363a",
@@ -108,8 +80,8 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/ludm_2.58cb5eed.png"
   },
   {
-    "revision": "d856a6a15ba49409ee76564d888937f6",
-    "url": "/jmichaelcodes-react/static/media/skinnyties_1.d856a6a1.png"
+    "revision": "151b4160735133f58934",
+    "url": "/jmichaelcodes-react/static/js/main.151b4160.chunk.js"
   },
   {
     "revision": "9006e397706cc36c800a5552197cb858",
@@ -148,7 +120,43 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/resume2018.28d2bf83.pdf"
   },
   {
-    "revision": "b7d4d412bbf0845cf9c3ec861e38ad6f",
+    "revision": "e3efe24d038937a8050aa269946c89c5",
+    "url": "/jmichaelcodes-react/static/media/android.e3efe24d.png"
+  },
+  {
+    "revision": "b2f7b0c5b541c73d3981d1bf33d871bf",
+    "url": "/jmichaelcodes-react/static/media/css.b2f7b0c5.png"
+  },
+  {
+    "revision": "8b6658abf75e5e475fac8f5e017f7768",
+    "url": "/jmichaelcodes-react/static/media/java.8b6658ab.png"
+  },
+  {
+    "revision": "0dc5bb89d598bd674f67a710310b31ce",
+    "url": "/jmichaelcodes-react/static/media/javascript.0dc5bb89.png"
+  },
+  {
+    "revision": "1a1882b8869d04e6b7dce7245f074bb0",
+    "url": "/jmichaelcodes-react/static/media/jquery.1a1882b8.png"
+  },
+  {
+    "revision": "a2b57171ae3c9f4ff5055e2db4fbd675",
+    "url": "/jmichaelcodes-react/static/media/react-native.a2b57171.png"
+  },
+  {
+    "revision": "c03ff3e17645426cd725144c594b4041",
+    "url": "/jmichaelcodes-react/static/media/react.c03ff3e1.png"
+  },
+  {
+    "revision": "f3483f64fe4f53928cfe2786e7ec82cc",
+    "url": "/jmichaelcodes-react/static/media/FuturaPTBold.f3483f64.otf"
+  },
+  {
+    "revision": "a15258a71bcff8eb791ad54f27144d48",
+    "url": "/jmichaelcodes-react/static/media/FuturaPTLight.a15258a7.otf"
+  },
+  {
+    "revision": "c78fc829e26a37222b639f5f620d56ad",
     "url": "/jmichaelcodes-react/index.html"
   }
 ];
