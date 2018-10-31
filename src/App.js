@@ -10,7 +10,7 @@ import BurgerMenu from './components/BurgerMenu/BurgerMenu'
 class App extends Component {
   render() {
     return (
-      <div style={{ backgroundColor: '#11082b' }}>
+      <div style={{ backgroundColor: '#11082b', minHeight: '100vh' }}>
         <BurgerMenu/>
         <Route exact path="/" component={Home}/>
         <Route exact path="/work" component={Work}/>
