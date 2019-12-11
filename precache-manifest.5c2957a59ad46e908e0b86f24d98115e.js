@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "d856a6a15ba49409ee76564d888937f6",
-    "url": "/jmichaelcodes-react/static/media/skinnyties_1.d856a6a1.png"
+    "revision": "58cb5eeddf07615e9f92031824fa8f90",
+    "url": "/jmichaelcodes-react/static/media/ludm_2.58cb5eed.png"
   },
   {
-    "revision": "8198ce61c5f57b4fca32",
-    "url": "/jmichaelcodes-react/static/css/main.30955d81.chunk.css"
+    "revision": "9b00e08620448ae135f1",
+    "url": "/jmichaelcodes-react/static/css/main.bd1fec94.chunk.css"
   },
   {
-    "revision": "66d7e8da0634516baf92",
-    "url": "/jmichaelcodes-react/static/js/1.66d7e8da.chunk.js"
+    "revision": "9e2e0d6c6278d7a84b59",
+    "url": "/jmichaelcodes-react/static/js/1.9e2e0d6c.chunk.js"
   },
   {
     "revision": "6f2f312a56eaf91d3144",
@@ -76,12 +76,12 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/ludm_1.f9247507.png"
   },
   {
-    "revision": "58cb5eeddf07615e9f92031824fa8f90",
-    "url": "/jmichaelcodes-react/static/media/ludm_2.58cb5eed.png"
+    "revision": "9b00e08620448ae135f1",
+    "url": "/jmichaelcodes-react/static/js/main.9b00e086.chunk.js"
   },
   {
-    "revision": "8198ce61c5f57b4fca32",
-    "url": "/jmichaelcodes-react/static/js/main.8198ce61.chunk.js"
+    "revision": "d856a6a15ba49409ee76564d888937f6",
+    "url": "/jmichaelcodes-react/static/media/skinnyties_1.d856a6a1.png"
   },
   {
     "revision": "9006e397706cc36c800a5552197cb858",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/coachstr_3.bfbada1f.png"
   },
   {
-    "revision": "28d2bf833d766df6aae2d9a8adb34058",
-    "url": "/jmichaelcodes-react/static/media/resume2018.28d2bf83.pdf"
+    "revision": "48696ef7bafbf6739d6cde7051288d47",
+    "url": "/jmichaelcodes-react/static/media/resume2019.48696ef7.pdf"
   },
   {
     "revision": "e3efe24d038937a8050aa269946c89c5",
@@ -128,16 +128,12 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/css.b2f7b0c5.png"
   },
   {
-    "revision": "8b6658abf75e5e475fac8f5e017f7768",
-    "url": "/jmichaelcodes-react/static/media/java.8b6658ab.png"
+    "revision": "eedfe7b887bec4eb1d883e23df038ce7",
+    "url": "/jmichaelcodes-react/static/media/scrum.eedfe7b8.png"
   },
   {
     "revision": "0dc5bb89d598bd674f67a710310b31ce",
     "url": "/jmichaelcodes-react/static/media/javascript.0dc5bb89.png"
-  },
-  {
-    "revision": "1a1882b8869d04e6b7dce7245f074bb0",
-    "url": "/jmichaelcodes-react/static/media/jquery.1a1882b8.png"
   },
   {
     "revision": "a2b57171ae3c9f4ff5055e2db4fbd675",
@@ -148,15 +144,15 @@ self.__precacheManifest = [
     "url": "/jmichaelcodes-react/static/media/react.c03ff3e1.png"
   },
   {
-    "revision": "a15258a71bcff8eb791ad54f27144d48",
-    "url": "/jmichaelcodes-react/static/media/FuturaPTLight.a15258a7.otf"
-  },
-  {
     "revision": "f3483f64fe4f53928cfe2786e7ec82cc",
     "url": "/jmichaelcodes-react/static/media/FuturaPTBold.f3483f64.otf"
   },
   {
-    "revision": "ded2bb0cedb80ce1a4f9840b4c842883",
+    "revision": "a15258a71bcff8eb791ad54f27144d48",
+    "url": "/jmichaelcodes-react/static/media/FuturaPTLight.a15258a7.otf"
+  },
+  {
+    "revision": "ff1f836c25b930abb91dda91448c6bc3",
     "url": "/jmichaelcodes-react/index.html"
   }
 ];
