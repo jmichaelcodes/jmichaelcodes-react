@@ -30,16 +30,40 @@
     opacity: 0.84;
 }
 
+@media only screen and (max-width: 959px) {
+    .desktop {
+        display: none
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .mobile {
+        display: none
+    }
+}
+
 .details {
     margin-top: 0;
 }
 
-.experienceContainer {
-    margin-top: 14%
+@media only screen and (max-width: 959px) {
+    .experienceContainer {
+        margin-top: 100px
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .experienceContainer {
+        margin-top: 200px
+    }
+}
+
+.certificationContainer {
+    margin-top: 75px
 }
 
  .progressBarContainer {
-    position: relative;
+    /* position: relative;
      width: 13%;
-     height: 13%
+     height: 13% */
  }

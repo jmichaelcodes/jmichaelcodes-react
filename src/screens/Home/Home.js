@@ -9,8 +9,8 @@ class Home extends Component {
     return (
       <div className='homeContainer'>
         <div className='contentContainer'>
-          <h1 className='homeTitle'>J. Michael Williams</h1>
-          <h1 className='subtitle'>Front-end Web & Mobile Developer</h1>
+          <h1 className='homeTitle'>Julius Williams</h1>
+          <h1 className='subtitle'>Front-end Web & Mobile Developer | Certified Scrum Master</h1>
           {/* <p className='subtitle'>short bio and stuff</p> */}
           <div className='buttonContainer'>
             <Link to='/about' style={{ textDecoration: 'none'}}>

@@ -1,8 +1,25 @@
+
+.aboutButtonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+@media only screen and (max-width: 959px) {
+    .aboutButtonContainer {
+        flex-direction: column
+    }
+}
+
+@media only screen and (max-width: 959px) {
+    .aboutButton {
+        margin-bottom: 50px
+    }
+}
+
+
 .profileContainer {
-    height: 100vh;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 5%;
+    padding: 5% 100px 5% 100px;
     color: white;
     font-family: "FuturaPT", sans-serif;
     font-weight: lighter;
